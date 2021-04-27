@@ -6,7 +6,7 @@
   <img src="https://i2.wp.com/www.fusiontechnology.in/blog/wp-content/uploads/2021/03/Data-Science-vs.-Big-Data-vs.jpg?resize=768%2C432" width = 75%>
 </p>
 
-### Gabriel Serafim
+# Gabriel Serafim
 
 [Repositório de Data Science]() | [Linkedin](https://www.linkedin.com/in/gnserafim/) 
 
